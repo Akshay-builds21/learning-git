@@ -1,0 +1,26 @@
+body {
+    background-color: #1e1e2f;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #00d4ff;
+}
+
+h2 {
+    color: #ffd700;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+}
